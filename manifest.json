@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "World News",
+    "version": "1.0.0",
+    "description": "Get the latest world news",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "news-icon.png"
+    },
+    "icons": {
+      "16": "news-icon.png",
+      "32": "news-icon.png",
+      "48": "news-icon.png",
+      "128": "news-icon.png"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
