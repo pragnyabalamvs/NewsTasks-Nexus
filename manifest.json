@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "World News",
+    "name": "NewsTasksNexus",
     "version": "1.0.0",
-    "description": "Get the latest world news",
+    "description": "Get the latest world news, study tips and a streamlined to-do list",
     "action": {
       "default_popup": "popup.html",
       "default_icon": "news-icon.png"
