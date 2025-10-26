@@ -13,8 +13,6 @@
       "48": "news-icon.png",
       "128": "news-icon.png"
     },
-    "permissions": [
-      "activeTab"
-    ]
+    "permissions": []
   }
   
